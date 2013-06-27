@@ -1,0 +1,623 @@
+<?xml version="1.0"?>
+<region_codes>
+    <record>
+        <code>AB</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>AL</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>B</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>BA</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>BB</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>BD</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>BH</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>BL</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>BN</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>BR</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>BS</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>BT</code>
+        <region>Northern Ireland
+        </region>
+    </record>
+    <record>
+        <code>CA</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>CB</code>
+        <region>East Anglia
+        </region>
+    </record>
+    <record>
+        <code>CF</code>
+        <region>Wales
+        </region>
+    </record>
+    <record>
+        <code>CH</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>CM</code>
+        <region>East Anglia
+        </region>
+    </record>
+    <record>
+        <code>CO</code>
+        <region>East Anglia
+        </region>
+    </record>
+    <record>
+        <code>CR</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>CT</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>CV</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>CW</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>DA</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>DD</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>DE</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>DG</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>DH</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>DL</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>DN</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>DT</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>DY</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>E</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>EC</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>EH</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>EN</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>EX</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>FK</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>FY</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>G</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>GL</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>GU</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>GY</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>HA</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>HD</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>HG</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>HP</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>HR</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>HS</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>HU</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>HX</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>IG</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>IM</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>IP</code>
+        <region>East Anglia
+        </region>
+    </record>
+    <record>
+        <code>IV</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>JE</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>KA</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>KT</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>KW</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>KY</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>L</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>LA</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>LD</code>
+        <region>Wales
+        </region>
+    </record>
+    <record>
+        <code>LE</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>LL</code>
+        <region>Wales
+        </region>
+    </record>
+    <record>
+        <code>LN</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>LS</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>LU</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>M</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>ME</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>MK</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>ML</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>N</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>NE</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>NG</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>NN</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>NP</code>
+        <region>Wales
+        </region>
+    </record>
+    <record>
+        <code>NR</code>
+        <region>East Anglia
+        </region>
+    </record>
+    <record>
+        <code>NW</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>OL</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>OX</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>PA</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>PE</code>
+        <region>East Anglia
+        </region>
+    </record>
+    <record>
+        <code>PH</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>PL</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>PO</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>PR</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>RG</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>RH</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>RM</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>S</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>SA</code>
+        <region>Wales
+        </region>
+    </record>
+    <record>
+        <code>SE</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>SG</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>SK</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>SL</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>SM</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>SN</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>SO</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>SP</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>SR</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>SS</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>ST</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>SW</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>SY</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>TA</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>TD</code>
+        <region>Scotland
+        </region>
+    </record>
+    <record>
+        <code>TF</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>TN</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>TQ</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>TR</code>
+        <region>South West
+        </region>
+    </record>
+    <record>
+        <code>TS</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>TW</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>UB</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>W</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>WA</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>WC</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>WD</code>
+        <region>South East
+        </region>
+    </record>
+    <record>
+        <code>WF</code>
+        <region>North West
+        </region>
+    </record>
+    <record>
+        <code>WN</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>WR</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>WS</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>WV</code>
+        <region>Midlands
+        </region>
+    </record>
+    <record>
+        <code>YO</code>
+        <region>North East
+        </region>
+    </record>
+    <record>
+        <code>ZE</code>
+        <region>Scotland
+        </region>
+    </record>
+</region_codes>
