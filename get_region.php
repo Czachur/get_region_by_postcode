@@ -1,3 +1,9 @@
+<?php
+/**
+ * get_region.php($post_code)
+ * @param type $post_code
+ * @return string
+ */
 function get_region($post_code) {
     if ($post_code === '') {
         return "No post code entered.";
@@ -27,3 +33,4 @@ function get_region($post_code) {
         }
     }
 }
+?>
